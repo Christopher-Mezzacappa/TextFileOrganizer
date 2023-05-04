@@ -1,0 +1,1725 @@
+Syntax error in file: books1997.csv.txt
+========================
+Error : Too many fields 
+Record : Michael R. Pitts,39.95,9780786404216,MTV,1997,
+
+Syntax error in file: books1998.csv.txt
+========================
+Error : missing author(s) field
+Record : Back In The Saddle - Essays On Western Film And Television Actors,,35.95,9780786405664,MTV,1998
+
+Syntax error in file: books2002.csv.txt
+========================
+Error : Unknown genre ==> MBR
+Record : Edward Amos,35.95,9780786412709,MBR,2002
+
+Syntax error in file: books2002.csv.txt
+========================
+Error : missing author(s) field
+Record : Brooklyn Film - Essays In The History of Filmmaking,,35.95,9780786414055,MTV,2002
+
+Syntax error in file: books2002.csv.txt
+========================
+Error : missing author(s) field
+Record : ,49.5,9780786413447,MTV,2002
+
+Syntax error in file: books2002.csv.txt
+========================
+Error : missing author(s) field
+Record : Film And Knowledge - Essays On The Integration of Images And Ideas,,35.95,9780786413201,MTV,2002
+
+Syntax error in file: books2002.csv.txt
+========================
+Error : missing author(s) field
+Record : ,35.95,9780786413560,MTV,2002
+
+Syntax error in file: books2002.csv.txt
+========================
+Error : missing author(s) field
+Record : Baseball - Baseball In The Carolinas: 25 Essays on the States' Hardball Heritage,,30.95,9780786413188,SSM,2002
+
+Syntax error in file: books2003.csv.txt
+========================
+Error : Unknown genre ==> BRM
+Record : Wagner and Suicide,John Louis DiGaetani,39.95,9780786414772,BRM,2003
+
+Syntax error in file: books2003.csv.txt
+========================
+Error : missing author(s) field
+Record : Survivor Lessons - Essays On Communication And Reality Television,,35.95,9780786416684,MTV,2003
+
+Syntax error in file: books2003.csv.txt
+========================
+Error : missing author(s) field
+Record : War And Film In America - Historical And Critical Essays,,30.95,9780786416738,MTV,2003
+
+Syntax error in file: books2004.csv.txt
+========================
+Error : Unknown genre ==> CTV
+Record : Up From The Vault - Rare Thrillers of The 1920S And 1930S,John T. Soister,49.5,9780786417452,CTV,2004
+
+Syntax error in file: books2004.csv.txt
+========================
+Error : Unknown genre ==> BRM
+Record : Radio's Captain Midnight - The Wartime Biography,Stephen A. Kallis Jr.,26.96,9780786421763,BRM,2004
+
+Syntax error in file: books2004.csv.txt
+========================
+Error : missing author(s) field
+Record : Almost Shakespeare - Reinventing His Works For Cinema And Television,,30.95,9780786419098,MTV,2004
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : ,5.95,0312195710,CCB,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : Unknown genre ==> CBB
+Record : Hanna-Barbera Cartoons,Michael Mallory,18.95,0883631083,CBB,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : Superhero Book,,24.95,1578591546,CCB,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing isbn field
+Record : Antique Trader - Antiques & Collectibles 2006 Price Guide,Kyle Husfloen,16.95,,HCB,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing isbn field
+Record : Antiques 101,Frank Farmer Loomis IV,17.95,,HCB,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : O'Brien's Collecting Toy Cars & Trucks,,21.95,0873498364,HCB,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : Warman's Toys Field Guide,,-9.95,0873498178,HCB,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : Unknown genre ==> HBC
+Record : Charles Dee Sharp,14.95,1888054700,HBC,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing isbn field
+Record : Abba - The Complete Guide To Their Music,Carl Magnus Palm,4.95,,MRB,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing isbn field
+Record : Ean Wood,7.95,,MRB,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing isbn field
+Record : Beatles - True Beginnings,Roag Best & Pete Best & Rory Best,12.95,,MRB,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing isbn field
+Record : Beatles - Walrus Was Ringo: 101 Beatles Myths Debunked,Alan Clayson & Spencer Leigh,14.95,,MRB,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing isbn field
+Record : Big Star,Rob Jovanovic,12.95,,MRB,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing isbn field
+Record : Billboard Book of Number One Adult Contemporary Hits,Wesley Hyatt,5.95,,BBM,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing isbn field
+Record : Billboard Hot 100 Charts - The Sixties,Joel Whitburn,56.95,,MRB,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : Blue Note - Album Cover Art: The Ultimate Collection,,14.95,0811836886,MRB,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : Unknown genre ==> MMR
+Record : Chris Welch & Geoff Nicholls,12.95,0879306580,MMR,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : Bristol Sessions - Writings About The Big Bang of Country Music,,30.95,9780786419456,MRB,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : ,16.95,1842403095,MRB,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing isbn field
+Record : From the Velvets to the Voidoids,Clinton Heylin,12.95,,MRB,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing isbn field
+Record : Frankie Gaye & Fred E. Basten,14.95,,MRB,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : Guitar - Guitar Chord & Scale Decks,,14.95,0825629721,MRB,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : Hot Wacks Supplement 5,,12.95,0969808089,MRB,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : Hot Wacks Supplement 7,,12.95,,MRB,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing isbn field
+Record : Iggy & The Stooges - Raw Power,Mick Rock,19.95,,MRB,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : Unknown genre ==> RBM
+Record : It's Only Rock And Roll: Rock And Roll Currents In Contemporary Art,David S. Rubin,3.95,3791316273,RBM,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing isbn field
+Record : Kiss - Warman's Kiss Collectibles Field Guide,Tom Shannon,9.95,,MRB,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : Led Zeppelin - Press Reports...,,19.95,1894959175,MRB,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing isbn field
+Record : Bob Gruen,19.95,,MRB,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : ,5.95,1575440121,MRB,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : ,3.95,0847818829,MRB,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing isbn field
+Record : Radiohead - CD-Sized Book,Mick St Michael,1,,MRB,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing isbn field
+Record : Rock Photography - Showtime,Steve Gullick,3.95,,MRB,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing isbn field
+Record : Rock Posters - Swag 2: Rock Posters of the '90s,Spencer Drate & Judith Salavetz,19.95,,MRB,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing isbn field
+Record : Rockabilly - A Forty-Year Journey,Billy Poore,13.95,,MRB,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing isbn field
+Record : Rolling Stones - A Life On The Road,Jools Holland & Dora Loewenstein,14.95,,MRB,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing isbn field
+Record : Swinging Big Bands...Into The Millennium,Al Raymond,12.95,,MRB,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : VH1 - 100 Greatest Albums,,3.95,0743448766,MRB,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing isbn field
+Record : Yardbirds,Alan Clayson,16.95,,MRB,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : Attack of The B Queens,,19.95,1887664084,MTV,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing isbn field
+Record : Ed McMahon,4.95,,MTV,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : ,19.95,1887664157,MTV,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : ,4.95,0801864291,MTV,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : Fantastic Journeys: Sci-Fi Memories,,19.95,1887664408,MTV,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : Too many fields 
+Record : ,,44.95,9780786443192,MTV,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : First World War and Popular Cinema,,5.95,,MTV,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing isbn field
+Record : Forgotten Horrors 2: Beyond The Horror Ban,Michael H. Price & George E. Turner,19.95,,MTV,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : Frankenstein - We Belong Dead: Frankenstein On Film,,19.95,1887664092,MTV,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing isbn field
+Record : Gregory William Mank,19.95,,MTV,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : It's Christmas Time At The Movies: An A-Z Guide To Our Favorite Holiday Films,,19.95,188766419X,MTV,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : Japanese Movie Posters,,4.95,0972312455,MTV,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing isbn field
+Record : King Kong - History of a Movie Icon: From Fay Wray to Peter Jackson,Ray Morton,16.95,,MTV,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : ,35.95,9780786420049,MTV,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : ,19.95,1887664300,MTV,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : Mad About Movies (#3),,7.95,,MTV,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : Mad About Movies (#4),,7.95,,MTV,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : Memories of Hammer,,24.95,1884664181,MTV,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : Midnight Marquee (Issue #71 / 72),,7.95,,MTV,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : Midnight Marquee (Issue #73 / 74),,7.95,,MTV,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : Movie Mystique (#1),,4.95,,MTV,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : Movie Mystique (#2),,4.95,,MTV,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : ,19.95,1887664386,MTV,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing isbn field
+Record : David M. Inman,109.95,,MTV,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing isbn field
+Record : David M. Inman,264.95,,MTV,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : ,19.95,1887664211,MTV,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing isbn field
+Record : Sandra Grabman,14.95,,MTV,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : Sleazoid Express,,4.95,0743215834,MTV,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : ,30.95,9780786421206,MTV,1005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing isbn field
+Record : Trash - The Graphic Genius of Xploitation Movie Posters,Jacques Boyreau,14.95,,MTV,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : TV A-Go-Go - Rock on TV from American Bandstand to American Idol,,14.95,0811834174,MTV,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing isbn field
+Record : Antoinette Girgenti Lane,19.95,,MTV,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing isbn field
+Record : John Loring,7.95,,NEB,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : Baseball - 1964 Phillies: The Story of Baseball's Most Memorable Collapse,,26.96,9780786421176,SSM,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : ,39.95,0786416432,SSM,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : ,39.95,0786418516,SSM,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : Baseball - Baseball Anthology,,9.95,0810991799,SSM,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : Baseball - Baseball as America: Seeing Ourselves Through Our National Game,,11.95,0792238982,SSM,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : ,29.95,0786408316,SSM,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : ,29.95,0786409541,SSM,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : ,29.95,0786408324,SSM,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : ,29.95,0786411201,SSM,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : ,29.95,0786413573,SSM,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : ,29.95,0786415703,SSM,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : ,29.95,0786421967,SSM,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : Golf - Classic Golf: Photographs of Walter Iooss Jr.,,5.95,0810949830,SSM,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing author(s) field
+Record : Golf - Golf's Greatest Moments: Illustrated History by the Game's Finest Writers,,19.95,0810946319,SSM,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : Unknown genre ==> SSN
+Record : G. Richard McKelvey,24.95,078641944X,SSN,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : Unknown genre ==> SSN
+Record : Baseball - Baseball Players' Best Seasons: Team by Team Rankings,Michael S. Jones,39.95,0786410868,SSN,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : Unknown genre ==> SSN
+Record : Baseball - Battle of Base-Ball,C.H. Claudy,30.95,9780786420209,SSN,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : Unknown genre ==> SSN
+Record : Clifton Blue Parker,24.95,0786414006,SSN,2005
+
+Syntax error in file: books2005.csv.txt
+========================
+Error : missing isbn field
+Record : Jerry Heasley,9.95,,TPA,2005
+
+Syntax error in file: books2006.csv.txt
+========================
+Error : missing author(s) field
+Record : Billboard - Billboard Illustrated Encyclopedia of Music,,19.95,0823078698,MRB,2006
+
+Syntax error in file: books2006.csv.txt
+========================
+Error : missing author(s) field
+Record : Hot Wacks Supplement 6,,12.95,0968858708,MRB,2006
+
+Syntax error in file: books2006.csv.txt
+========================
+Error : missing author(s) field
+Record : KISS - Convention Guide & Ticket: 18th Annual New York KISS Expo (2004),,3.95,,MRB,2006
+
+Syntax error in file: books2006.csv.txt
+========================
+Error : missing author(s) field
+Record : KISS - Convention Guide & Ticket: 19th Annual New York KISS Expo (2005),,3.95,,MRB,2006
+
+Syntax error in file: books2006.csv.txt
+========================
+Error : Unknown genre ==> RBM
+Record : Lester Bangs,4.95,0393316254,RBM,2006
+
+Syntax error in file: books2006.csv.txt
+========================
+Error : missing author(s) field
+Record : Radio - It's That Time Again: More New Stories of Old-Time Radio,,11.95,1591930062,MRB,2106
+
+Syntax error in file: books2006.csv.txt
+========================
+Error : missing author(s) field
+Record : Radio - It's That Time Again: The New Stories of Old-Time Radio,,11.95,0971457026,MRB,2006
+
+Syntax error in file: books2006.csv.txt
+========================
+Error : missing author(s) field
+Record : ,19.95,188766453X,MTV,2006
+
+Syntax error in file: books2006.csv.txt
+========================
+Error : missing author(s) field
+Record : Mad About Movies (#5),,7.95,,MTV,2006
+
+Syntax error in file: books2006.csv.txt
+========================
+Error : missing author(s) field
+Record : Science Fiction America - Essays On SF Cinema,,39.95,0786421495,MTV,2006
+
+Syntax error in file: books2006.csv.txt
+========================
+Error : missing author(s) field
+Record : Son of Guilty Pleasures of the Horror Film,,19.95,1887664041,MTV,2006
+
+Syntax error in file: books2006.csv.txt
+========================
+Error : missing author(s) field
+Record : Baseball - What Baseball Means to Me,,5.95,0446527491,SSM,2006
+
+Syntax error in file: books2007.csv.txt
+========================
+Error : Unknown genre ==> BCC
+Record : Mad Magazine - Spy Vs. Spy: The Complete Casebook,Antonio Prohias,15.95,0823050211,BCC,2007
+
+Syntax error in file: books2007.csv.txt
+========================
+Error : missing author(s) field
+Record : Romance Pulp - 30 Postcards,,3.95,0811847225,CCB,2007
+
+Syntax error in file: books2007.csv.txt
+========================
+Error : missing author(s) field
+Record : Celtic Music - Third Ear: The Essential Listening Companion,,5.95,9780879306236,MRB,2007
+
+Syntax error in file: books2007.csv.txt
+========================
+Error : Too many fields 
+Record : Classic Guitars Identification And Price Guide,Nick Freeth,16.99,0896895297,MRB,2007,
+
+Syntax error in file: books2007.csv.txt
+========================
+Error : missing author(s) field
+Record : ,19.95,142343076X,MRB,2007
+
+Syntax error in file: books2007.csv.txt
+========================
+Error : Unknown genre ==> ABC
+Record : Clay Eals,23.95,1550227327,ABC,2007
+
+Syntax error in file: books2007.csv.txt
+========================
+Error : missing author(s) field
+Record : ,9.95,0743235819,MRB,2007
+
+Syntax error in file: books2007.csv.txt
+========================
+Error : missing author(s) field
+Record : ,14.95,0825673410,MRB,2007
+
+Syntax error in file: books2007.csv.txt
+========================
+Error : Too many fields 
+Record : Stephen Davis,4.95,159240099X,MRB,2007,
+
+Syntax error in file: books2007.csv.txt
+========================
+Error : Unknown genre ==> DEF
+Record : Storm Thorgeson & Peter Curzon,19.95,1846096677,DEF,2007
+
+Syntax error in file: books2007.csv.txt
+========================
+Error : missing isbn field
+Record : Domenic Priore,11.95,,MRB,2007
+
+Syntax error in file: books2007.csv.txt
+========================
+Error : Too many fields 
+Record : Escape! - How Animation Broke Into The Mainstream In The 1990s,G. Michael Dobbs,16.95,1593931107,MTV,2007,
+
+Syntax error in file: books2007.csv.txt
+========================
+Error : missing author(s) field
+Record : Gangster Film: The Overlook Film Encyclopedia,,14.95,0879518812,MTV,2007
+
+Syntax error in file: books2007.csv.txt
+========================
+Error : missing author(s) field
+Record : ,31.95,9780786430345,MTV,2007
+
+Syntax error in file: books2007.csv.txt
+========================
+Error : missing author(s) field
+Record : It Came From The Drive-In,,3.95,0743493168,MTV,2007
+
+Syntax error in file: books2007.csv.txt
+========================
+Error : missing isbn field
+Record : Gary D. Rhodes & Richard Sheffield,24.95,,MTV,2007
+
+Syntax error in file: books2007.csv.txt
+========================
+Error : missing author(s) field
+Record : Midnight Marquee (Issue #75),,7.95,,MTV,2007
+
+Syntax error in file: books2007.csv.txt
+========================
+Error : missing isbn field
+Record : Rock & Roll Film Encyclopedia,John Kenneth Muir,16.95,,MTV,2007
+
+Syntax error in file: books2007.csv.txt
+========================
+Error : missing author(s) field
+Record : ,3.95,0312295286,MTV,2007
+
+Syntax error in file: books2007.csv.txt
+========================
+Error : missing author(s) field
+Record : ,6.95,1592530451,NEB,2007
+
+Syntax error in file: books2007.csv.txt
+========================
+Error : missing isbn field
+Record : Rapp Joke File,Philip Rapp,12.95,,NEB,2007
+
+Syntax error in file: books2007.csv.txt
+========================
+Error : missing author(s) field
+Record : Spy File - International Spy Museum,,4.95,1579123627,NEB,2007
+
+Syntax error in file: books2008.csv.txt
+========================
+Error : Unknown genre ==> RFG
+Record : Billboard - Hot Dance/Disco 1974-2003,Joel Whitburn,37.95,089820156X,RFG,2008
+
+Syntax error in file: books2008.csv.txt
+========================
+Error : missing author(s) field
+Record : Cartoon Music Book,,16.95,1556524730,MRB,2008
+
+Syntax error in file: books2008.csv.txt
+========================
+Error : missing author(s) field
+Record : ,17.95,1842403605,MRB,2008
+
+Syntax error in file: books2008.csv.txt
+========================
+Error : Unknown genre ==> QAS
+Record : Brian Chidester & Dominic Priore,29.95,1595800352,QAS,2008
+
+Syntax error in file: books2008.csv.txt
+========================
+Error : missing author(s) field
+Record : ,19.95,1887664793,MTV,2008
+
+Syntax error in file: books2008.csv.txt
+========================
+Error : missing author(s) field
+Record : King Kong Is Back!,,14.95,1932100644,MTV,2008
+
+Syntax error in file: books2008.csv.txt
+========================
+Error : missing author(s) field
+Record : Monster Bash Magazine (Issue #6),,7,,MTV,2008
+
+Syntax error in file: books2008.csv.txt
+========================
+Error : missing author(s) field
+Record : Monster Bash Magazine (Issue #7),,7,,MTV,2008
+
+Syntax error in file: books2008.csv.txt
+========================
+Error : missing author(s) field
+Record : Monster Bash Magazine (Issue #8),,7,,MTV,2008
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : Unknown genre ==> CBC
+Record : Manga Martial Arts,David Okum,16.95,1600610293,CBC,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : Unknown genre ==> BHC
+Record : Standard Catalog Of American Flyer Trains,David Doyle,27.95,0896895157,BHC,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : Unknown genre ==> WWF
+Record : Billboard - Hot Country Songs 1944-2008,Joel Whitburn,49.95,0898201772,WWF,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Billboard Hot Country Albums 1964-2007,Joel Whitburn,39.95,,MRB,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Marc Bristol & Gaby Maag-Bristol,4.5,,MRB,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Marc Bristol & Gaby Maag-Bristol,4.5,,MRB,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Marc Bristol & Gaby Maag-Bristol,4.5,,MRB,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Marc Bristol & Gaby Maag-Bristol,4.5,,MRB,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Marc Bristol & Gaby Maag-Bristol,4.5,,MRB,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Marc Bristol & Gaby Maag-Bristol,4.5,,MRB,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing author(s) field
+Record : ,4.95,0306815028,MRB,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : Unknown genre ==> XYZ
+Record : Goldmine Record Album Price Guide (6th Edition) [DVD-ROM Version],Tim Neely,16.99,1440203776,XYZ,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing author(s) field
+Record : ,16.95,1905287070,MRB,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Keep Rockin' - The 50s & 60s Nostalgia Magazine #1 (February 2009),Liz Harris & Lou Holly,4.95,,MRB,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Keep Rockin' - The 50s & 60s Nostalgia Magazine #2 (April 2009),Liz Harris & Lou Holly,4.95,,MRB,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Keep Rockin' - The 50s & 60s Nostalgia Magazine #3 (June 2009),Liz Harris & Lou Holly,4.95,,MRB,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Keep Rockin' - The 50s & 60s Nostalgia Magazine #4 (August 2009),Liz Harris & Lou Holly,4.95,,MRB,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Keep Rockin' - The 50s & 60s Nostalgia Magazine #5 (October 2009),Liz Harris & Lou Holly,4.95,,MRB,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Bruce Morrow & Rich Maloof,39.95,,MRB,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing author(s) field
+Record : Pink Floyd - Pink Floyd (Rex Collections),,22.95,9781905287826,MRB,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Rockabilly #45 [Spring 2009],Orlando Rios,3.99,,MRB,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Rockabilly #46 [Summer 2009],Orlando Rios,3.69,,MRB,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing author(s) field
+Record : ,6.95,0750942487,MRB,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing author(s) field
+Record : ,5.95,0312359144,MRB,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Cinema Retro Movie Classics Special Edition Where Eagles Dare Issue,Cinema Retro,9.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing author(s) field
+Record : ,9.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing author(s) field
+Record : ,9.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Cinema Retro,9.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing author(s) field
+Record : Gangster Film Reader,,16.95,0879103329,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : HorrorHound #19 [Sept/Oct 2009],Nathan Hanneman,5.99,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : HorrorHound #20 [Nov/Dec 2009],Nathan Hanneman,5.99,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Richard Klemensen,7.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Richard Klemensen,7.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Richard Klemensen,7.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Richard Klemensen,7.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Midnight Marquee (Issue #76),Gary Svehla & Susan Svehla,7.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Monster Bash Magazine (Issue #9),Ron Adams,7,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Monster Memories #10 (2002 Scary Monsters Magazine Yearbook),Dennis Druktenis,6.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Monster Memories #11 (2003 Scary Monsters Magazine Yearbook),Dennis Druktenis,6.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Monster Memories #12 (2004 Scary Monsters Magazine Yearbook),Dennis Druktenis,6.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Monster Memories #13 (2005 Scary Monsters Magazine Yearbook),Dennis Druktenis,6.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Monster Memories #14 (2006 Scary Monsters Magazine Yearbook),Dennis Druktenis,6.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Monster Memories #15 (2007 Scary Monsters Magazine Yearbook),Dennis Druktenis,7.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Monster Memories #16 (2008 Scary Monsters Magazine Yearbook),Denis Druktenis,7.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Monster Memories #17 (2009 Scary Monsters Magazine Yearbook),Denis Druktenis,7.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Monster Memories #2 (1994 Scary Monsters Magazine Yearbook),Dennis Druktenis,5.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Monster Memories #3 (1995 Scary Monsters Magazine Yearbook),Dennis Druktenis,6.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Monster Memories #5 (1997 Scary Monsters Magazine Yearbook),Dennis Druktenis,6.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Monster Memories #6 (1998 Scary Monsters Magazine Yearbook),Dennis Druktenis,6.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Monster Memories #7 (1999 Scary Monsters Magazine Yearbook),Dennis Druktenis,6.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Monster Memories #8 (2000 Scary Monsters Magazine Yearbook),Dennis Druktenis,6.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Monster Memories #9 (2001 Scary Monsters Magazine Yearbook),Dennis Druktenis,6.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Monsters From The Vault Magazine #21,Monsters From The Vault,6.98,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Monsters From The Vault Magazine #22,Monsters From The Vault,6.98,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Monsters From The Vault Magazine #23,Monsters From The Vault,6.98,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Monsters From The Vault Magazine #24,Monsters From The Vault,6.98,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Monsters From The Vault Magazine #25,Monsters From The Vault,7.98,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Monsters From The Vault Magazine #26,Monsters From The Vault,7.98,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Monsters From The Vault Special Edition #1: Kharis Unearthed,Monsters From The Vault,8.98,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing author(s) field
+Record : Popcorn Prozac - Movies To Cure The Recession Depression!,,19.95,9781887664943,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing author(s) field
+Record : Queens of Screams - The New Blood,,14.95,1593934556,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing author(s) field
+Record : Scarlet - The Film Magazine #3,,7.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Scary Monsters #71,Dennis Druktenis,7.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Scary Monsters Magazine #63,Denis Druktenis,7.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Scary Monsters Magazine #64,Denis Druktenis,7.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Scary Monsters Magazine #65,Denis Druktenis,7.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Scary Monsters Magazine #66,Denis Druktenis,7.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Scary Monsters Magazine #67,Denis Druktenis,7.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Scary Monsters Magazine #68,Denis Druktenis,7.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Scary Monsters Magazine #69,Denis Druktenis,7.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Scary Monsters Magazine #70,Denis Druktenis,7.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Scary Monsters Magazine #72,Dennis Druktenis,7.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Screem Magazine #10 [Limited Stock],Darryl Mayeski,5.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Screem Magazine #11,Darryl Mayeski,7.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Screem Magazine #12,Darryl Mayeski,7.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Screem Magazine #15,Darryl Mayeski,7.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Screem Magazine #16,Darryl Mayeski,7.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Screem Magazine #17,Darryl Mayeski,7.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Screem Magazine #18,Darryl Mayeski,7.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Screem Magazine #19,Darryl Mayeski,7.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Videoscope #52 Fall 2004,The Phantom Of The Movies,4.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Videoscope #53 Winter 2005,The Phantom Of The Movies,4.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Videoscope #54 Spring 2005,The Phantom Of The Movies,4.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Videoscope #55 Summer 2005,The Phantom Of The Movies,4.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Videoscope #56 Fall 2005,The Phantom Of The Movies,4.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Videoscope #57 Winter 2006,The Phantom Of The Movies,4.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Videoscope #58 Spring 2006,The Phantom Of The Movies,4.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Videoscope #59 Summer 2006,The Phantom Of The Movies,4.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Videoscope #60 Fall 2006,The Phantom Of The Movies,4.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Videoscope #61 Winter 2007,The Phantom Of The Movies,4.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Videoscope #62 Spring 2007,The Phantom Of The Movies,4.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Videoscope #63 Summer 2007,The Phantom Of The Movies,4.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Videoscope #64 Fall 2007,The Phantom Of The Movies,4.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Videoscope #65 Winter 2008,The Phantom Of The Movies,4.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Videoscope #66 Spring 2008,The Phantom Of The Movies,4.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Videoscope #67 Summer 2008,The Phantom Of The Movies,4.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Videoscope #68 Fall 2008,The Phantom Of The Movies,4.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Videoscope #69 Winter 2008,The Phantom Of The Movies,4.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Videoscope #70 Spring 2009,The Phantom Of The Movies,4.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Videoscope #71 Summer 2009,The Phantom Of The Movies,4.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing isbn field
+Record : Videoscope #72 Fall 2009,The Phantom Of The Movies,4.95,,MTV,2009
+
+Syntax error in file: books2009.csv.txt
+========================
+Error : missing author(s) field
+Record : Baseball - Baseball/Literature/Culture: Essays 2006/2007,,39.95,9780786436804,SSM,2009
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Supervillian Book: The Evil Side of Comics and Hollywood,Gina Misiroglu & Michael Eury,24.95,1578591783,CCB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Who's Who In Animated Cartoons: An International Guide to Film and Television's Award-Winning and Legendary Animators,Jeff Lenburg,15.95,155783671X,CCB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Michael Friel & Melody Mcdaniel & Cindy Palmano & Rankin,1,0825615674,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Chet Atkins & Michael Cochran,19.95,0634055658,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Serene Dominic,11.95,0825672805,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Bay City Rollers - Bye Bye Baby: My Tragic Love Affair With The Bay City Rollers,Caroline Sullivan,2.95,1582340552,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Beastie Boys - The Beastie Boys Companion - Two Decades of Commentary,John Rocco,1,0028653343,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Beatles - Diary: An Intimate Day By Day History (Pocket Edition),Barry Miles,8.95,0711991960,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Beatles - Dream Is Over,By Keith Badman,3.95,0711988021,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Billboard's Top R&B And Hip-Hop Singles (1942 To 2004),,39.95,0898201608,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Black Sabbath - The Ozzy Years (Embossed Cover And Rare Photo Collection),Robert V. Conte & C.J. Henderson,1.99,1890313998,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Blues - From Robert Johnson To Robert Clay,Tony Russell,5.95,0028648862,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Paul Davis,4.95,,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : British Invasion - How The Beatles And Other UK Bands Conquered America,Bill Harry,6.95,,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Ruth Brown & Andrew Yule,9.95,0306808889,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Mark Humphrey & Harris Lewine,3.95,0806514612,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Richard M. Sudhalter,5.95,0195168984,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Johnny Cash,19.95,159554237X,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Brian Mansfield,3.95,1401601375,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Stephen Miller,15.95,0711996261,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Cher - The First Time,Cher as told to Jeff Coplon,4.95,0316848441,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Chicago - Feelin' Stronger Every Day,Ben Joseph,1.99,1550822454,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Chieftains - Authorized Biography,John Glatt,5.95,0306809222,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Natalie Cole & Digby Diehl,4.95,0446527467,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Complete Book of Doo Wop,Dr. Anthony J. Gribin & Dr. Matthew M. Schiff,24.95,0977379841,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Cranberries,Michael Heatley,1,1578990203,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Steve Karmen,16.95,0634048767,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Ray Davies,5.95,0879516119,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Deep Purple - The Deep Purple Story: Smoke On The Water,Dave Thompson,12.95,,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Barry Grills,1.49,155082189X,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Paul Williams,1.99,0711935556,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Paul Williams,15.98,1844492818,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : John A. Jackson,6.95,0977379809,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Garage Rock And Its Roots - Musical Rebels And The Drive For Individuality,Eric James Abbey & Michelangelo Capua,28.95,0786425644,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Alyn Shipton,6.95,0195144104,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Girl Groups: Fabulous Females That Rocked The World,John Clemente,7.95,0873418166,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Grateful Dead - Living With The Dead: Twenty Years On The Bus With Garcia And The Grateful Dead,Rock Scully & David Dalton,3.95,0316777129,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Grateful Dead - Not Fade Away: The Online World Remembers Jerry Garcia,,1.95,1560251255,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Great Rock Drummers of the Sixties (Revised),Bob Cianci,16.95,0634099256,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Lionel Hampton & James Haskins,4.99,1567430198,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Illustrated By Bill Sienkiewicz & Created & Produed By Martin I. Green,8.95,0670867896,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Hot Country Stars,Michael McCall & Janet Williams,1.99,1561737291,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Jim Brown,1.99,1550822438,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Madonna - Complete Guide To Her Music,Rikky Rooksby,2.95,0711998833,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Madonna - In Her Own Words,Mick St Michael,5.95,0711977348,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Mamas & The Papas - California Dreamin',Doug Hall,1.99,1880522160,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Patricia Butler,3.95,0711991979,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Ian Mccann & Harry Hawke,2.95,0711998841,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Jorie B. Gracen,12.95,0823083691,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Tony Barrow & Robin Bextor,19.95,0634069195,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Monkees - Collectibles Price Guide,Marty Eck,13.95,0930625188,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Didieer C. Deutsh,4.95,,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Todd Brabec & Jeffrey Brabec,2.5,0825672821,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Nirvana - Complete Guide To Their Music,James Hector,2.95,0711998876,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Guitar World Magazine,10.95,079359006X,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Nirvana Tribute - Nirvana / Hole,,1,,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Pink Floyd - Interviews,Guitar World Magazine,9.95,0634032860,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Alvin Gibbs,4.95,1899598170,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Eric Braun,6.99,0879518146,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Sean O'Neal,2.95,076151127X,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Rex & Elisabeth Mansfield & Marshall & Zoe Terrill,5.95,1550225553,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Queen - The Art of Queen - The Making of The Eye,,1.99,0765191261,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : R.E.M. - The Rolling Stone Files,,2.95,0786880546,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Radiohead - Green Plastic Wateringcan,William Stone,1,188689454X,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Scott Freeman,5.95,0312302975,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Mel Torme,10.5,1888408022,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Rock 'N' Roll Years 1960-2000 - The Photographer's Cut,,2.99,0953747913,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Tina Sinatra (With Jeff Coplon),5.95,0684870762,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Charles Granata,13.95,1556523564,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Soulful Divas,David Nathan,11.5,0823084302,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Richard Williams,4.95,0711998647,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : John W. Duffy,8.95,1844494039,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Top 500 Heavy Metal Albums of All Time,Martin Popoff,14.95,,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Turn On Your Mind - Four Decades of Great Psychedelic Rock,Jim Derogatis,12.95,0634055488,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : U2 - Complete Guide To Their Music,Bill Graham & Caroline Van Der Oosten De Boer,2.95,0711998868,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Guitar World Magazine,10.5,0793580803,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Yes - Close To The Edge: The Story of Yes,Chris Welch,3.95,0711995095,MRB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Patricia Bosworth,4.95,,MTV,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Michelangelo Capua,30.95,0786424613,MTV,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Nick Johnstone,2.95,071197652X,MTV,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Monster Bash Magazine (Issue #1),,7,,MTV,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Monster Bash Magazine (Issue #2),,7,,MTV,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Monster Bash Magazine (Issue #3),,7,,MTV,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Monster Bash Magazine (Issue #4),,7,,MTV,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Monster Bash Magazine (Issue #5),,7,,MTV,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Douglas Brode,30.95,0786425261,MTV,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : John Kenneth Muir,14.95,1557836078,MTV,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Jim Haskins & N.R. Mitgang,7.95,,MTV,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Superman - Art of Superman Returns,Daniel Wallace,29.95,0811853446,MTV,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Jeff Dawson,10.95,1557832277,MTV,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Tarzan - My Father,Johnny Weissmuller Jr. & William Reed & W. Craig Reed,19.95,1550225227,MTV,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Wizardry of Oz - The Artistry And Magic of The 1939 Mgm Classic (Revised & Expanded Edition),Jay Scarfone & William Stillman,13.95,1557836248,MTV,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Alan Young,12.95,1593930534,MTV,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Pop-Up Book of Nightmares,Gary Greenberg,4.95,031228263X,NEB,
+
+Syntax error in file: books2010.csv.txt
+========================
+Error : Too few fields 
+Record : Racing - Legends of Stock Car Racing,Dr. John Craft,5.95,0760301441,SSM,
+
